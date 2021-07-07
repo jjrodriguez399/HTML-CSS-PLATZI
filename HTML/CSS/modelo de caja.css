@@ -1,0 +1,13 @@
+main{
+    height: auto;
+    width: auto;
+    padding: 8px;
+    border: 1px solid red;
+    margin: 20px;
+    color: salmon;
+
+}
+*{  /* etiqueta universal*/
+    box-sizing: border-box;
+    
+}
