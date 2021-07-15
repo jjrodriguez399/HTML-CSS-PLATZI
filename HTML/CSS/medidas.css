@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+}
+p{
+    color:orange;
+    font-size:1em;
+    box-sizing: border-box;
+
+}
+
+.text-contanier{
+    font-size: 2em;
+}
+.text-contanier div{
+    font-size: 2em;
+}
+
+.text-contanier{
+    font-size: 2rem;
+}
+.text-contanier div{
+    font-size: 2rem;
+}
+small {
+    font-size: 2rem;
+   
+}
+main{
+    width: 90vw;
+    min-height: 15vh;
+    background-color: royalblue;
+    margin:  0 auto;
+    min-width: 250px;
+    max-width: 600px ;
+   
+}
+body{
+width: 100vh;
+height: 100vh;
+background-color: yellow;
+}
