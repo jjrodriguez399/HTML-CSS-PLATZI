@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    border-radius: 14px ;
+    border: 1px solid;
+    padding: 8px;
+    background-color: red;
+    text-align: center; 
+        
+}
+
+#content{
+    border-radius: 60px;
+    background-color: ghostwhite;
+    min-height: 50vh;
+    margin-top: 60px;
+    margin-left: 220px;
+    margin-right: 200px;
+}
+
+img{
+    padding: 15px;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    bottom: 790px;
+    left: 380px;
+       
+}
+
+#title{
+    width: 255px;
+    position: absolute;
+    left: 350px;
+    right: 350px;
+    top: 32px;
+    
+}
+p{
+    padding: 60px;
+    text-align: justify;
+    padding-top: 100px;
+}
