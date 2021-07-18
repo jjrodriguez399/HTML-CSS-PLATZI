@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    border: 0;
+}
+
+.order {
+  background-color: greenyellow;
+  padding: 20px;
+  text-align: center;
+  list-style: none;
+  
+}
+.order li{
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+}
+.texto {
+    background-color: greenyellow;
+}
+.parrafo{
+    background-color: greenyellow;
+}
+.title{
+    background-color: greenyellow;
+}
+span{
+    background-color: greenyellow;
+}
